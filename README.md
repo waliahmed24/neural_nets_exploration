@@ -6,5 +6,5 @@ Link to the tutorial: https://www.youtube.com/watch?v=VMj-3S1tku0&t=388s
 
 Things to implemnt and explore:
 
-## 1 NN Architecture
-## 2 Backpropogation
+### 1 NN Architecture
+### 2 Backpropogation
